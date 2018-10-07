@@ -13,6 +13,7 @@ Initially inspired by [eShopsOnContainers](https://github.com/dotnet-architectur
 - MySQL
 - MassTransit
 - RabbitMQ
+- IdentityServer 4
 
 **Client**
 - React
